@@ -7,6 +7,7 @@ TagManager:
   - InteractiveObject
   - DoorButton
   - Key
+  - book
   layers:
   - Default
   - TransparentFX

@@ -24,7 +24,7 @@ public class BasicDoorController : MonoBehaviour
 
         else
         {
-            doorAnim.Play(closeAnimationName, 0, 0.0f);
+           // doorAnim.Play(closeAnimationName, 0, 0.0f);
             doorOpen = false;
         }
     }
